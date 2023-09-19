@@ -4,11 +4,11 @@ Este é o repositório do meu projeto de portfólio/Carta de Apresentação, des
 
 ## Demonstração
 
-Você pode visualizar o projeto ao vivo [aqui](link-para-o-projeto).
+Você pode visualizar o projeto ao vivo [aqui](https://marinacb7.github.io/Portfolio/).
 
 ## Capturas de Tela
 
-![Screenshot 1](screenshots/screenshot1.png)
+![Screenshot 1](./src/img/techs/tela.png)
 
 ## Tecnologias Utilizadas
 
@@ -17,7 +17,7 @@ Você pode visualizar o projeto ao vivo [aqui](link-para-o-projeto).
 
 ## Autor
 
-- Seu Nome
+- Marina Cordeiro Barbosa
 - [LinkedIn](https://www.linkedin.com/in/marinacb7/)
 - Email: marinacordeiro92@gmail.com
 
