@@ -1,0 +1,30 @@
+:root {
+    --cor-primaria: #E6537A;
+    /* Cor secundária personalizada */
+    --cor-destaque: #AB34B4;
+    /* Cor de destaque personalizada */
+    --cor-fundo: #250C45;
+    /* Cor de fundo personalizada */
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Inclusive Sans', sans-serif;
+}
+
+body {
+    width: 100%;
+    height: 100vh;
+    background-color: var(--cor-fundo);
+    color: var(--cor-destaque);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+a {
+    text-decoration: none;
+    color: var(--cor-primaria);
+}
