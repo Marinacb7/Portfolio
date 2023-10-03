@@ -34,6 +34,7 @@ main .main-content .text{
     width: 75%;
     font-size: 1.2em;
     font-weight: 300;
+    line-height: 1.6;
 }
 
 /*Tecnologias*/
@@ -49,6 +50,7 @@ main .techs .cards-container .card{
     padding: 10px;
     border-radius: 8px;
     margin-right: 1.8em;
+    margin-left: 1.8em;
     cursor: pointer;
     display: flex;
     align-items: center;
